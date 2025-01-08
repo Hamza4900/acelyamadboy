@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID", "23333095"))
 API_HASH = getenv("API_HASH", "b203edd0bf365571295af5d0b0c05625")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "7090522217:AAGiXzsrjiZY0U1S2tpB0L2Nx6D27BD2xDo")
+BOT_TOKEN = getenv("BOT_TOKEN", "7674801143:AAGRRpX0WVb90YjJQ0ubfcxkpOOh7WJBj70")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://madpanel:madboy11@atlascluster.gprqayn.mongodb.net/?retryWrites=true&w=majority&appName=AtlasCluster")
@@ -22,7 +22,7 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "5400")
 )
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002182187594"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002028213552"))
 
 # Get this value from @FallenxBot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", "5901320319"))
